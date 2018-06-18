@@ -1,14 +1,16 @@
-font-family: 'Song Myung', serif;
+/* font-family: 'Song Myung', serif; */
 
 h1 {
-  color:white;
+  color: white;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 }
+
 #loginPage {
-  background-image: url("./books-finals.jpg") center fixed;
-  height: 100%;
-  z-index: 0;
+  background-image: url('../books-finals.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
 }
 
 .dashboardBody {
@@ -21,12 +23,11 @@ h1 {
   color: #444;
 }
 
-
 .dashboardNavBar {
-  text:white;
+  text: white;
   grid-template-rows: 100%;
   grid-template-columns: 100%;
-  display:block;
-  background-color:grey;
+  display: block;
+  background-color: grey;
   width: 60px;
 }
