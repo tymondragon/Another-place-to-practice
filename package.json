@@ -1,23 +1,22 @@
 {
-  "name": "Another-place-to-practice",
+  "name": "Q2PFootNotes",
   "version": "1.0.0",
-  "description": "experimental place to practice",
-  "main": "server.js",
+  "description": "Ty and Greg Q2P",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tymondragon/Another-place-to-practice.git"
+    "url": "git+https://github.com/GregOmer/Q2PFootNotes.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tymondragon/Another-place-to-practice/issues"
+    "url": "https://github.com/GregOmer/Q2PFootNotes/issues"
   },
-  "homepage": "https://github.com/tymondragon/Another-place-to-practice#readme",
+  "homepage": "https://github.com/GregOmer/Q2PFootNotes#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
